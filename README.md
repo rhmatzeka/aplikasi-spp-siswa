@@ -37,3 +37,7 @@ All code lives in `uji coba dah/raditarzhabid/`:
 | `yang diperlukan/` | Required libraries (`.jar`) |
 
 `uji coba dah/Aplikasi SPP.aip` is the installer project file.
+
+## License
+
+Released under the [MIT License](LICENSE).
